@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 | Project Name | Description | Duration | Link |
 | ---------- | ---- | ---- | ---- |
 | ☁️ CloudCraft | Cloud Service Learning Platform  | 25.12 ~ 26.02 | [GitHub](https://github.com/boostcampwm2025/web29-LBD) |
-| 💬 Nuri | AI-Powered Korean Conversation Learning Service  | 24.09 ~ 24.12 | [GitHub](https://github.com/vvzvvv/Nuri_backend) |
+| 💬 Nuri | AI-Powered Korean Conversation Learning Service  | 24.09 ~ 24.12 | [GitHub](https://github.com/vvzvvv/Nuri_docs) |
 | 🌷 Spring | Life Logging Service for Managing Depression | 24.04 ~ 24.07 | [GitHub](https://github.com/vvzvvv/spring) |
 
 </div>
