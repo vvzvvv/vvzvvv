@@ -1,22 +1,5 @@
 ## 🙋‍♀️ Hi, I'm Seunghyun Kim
 
-<!--
-**vvzvvv/vvzvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <div>
 
   ## Projects
@@ -27,6 +10,19 @@ Here are some ideas to get you started:
   | 💬 Nuri | AI-Powered Korean Conversation Learning Service  | 24.09 ~ 24.12 | [GitHub](https://github.com/vvzvvv/Nuri_docs) |
   | 🌷 Spring | Life Logging Service for Managing Depression | 24.04 ~ 24.07 | [GitHub](https://github.com/vvzvvv/spring) |
 
+</div>
+
+<br>
+
+<div>
+
+## Academic Projects (Coursework)
+
+| Project Name | Description | Course | Duration | Link |
+| ---------- | ---- | ---- | ---- | ---- |
+| ☁️ MSA Migration | Migrated a monolithic service to MSA architecture | Cloud Computing | 24.03 ~ 24.06 | [GitHub Org](https://github.com/cloud-sobeelog) |
+| 🔧 CI/CD | Built a CI/CD pipeline using Jenkins | Open-source software | 24.10 ~ 24.12 | [GitHub](https://github.com/vvzvvv/spring_CI-CD) |
+  
 </div>
 
 <br>
