@@ -1,7 +1,7 @@
 
 
 
-## 🙋‍♀️ 안녕하세요, 김승현입니다
+## 🙋‍♀️ 안녕하세요!
 
 > If you'd like to read my profile in English, click [here](./README.en.md).
 
