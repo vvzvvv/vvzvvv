@@ -1,4 +1,4 @@
-## 🙋‍♀️ Hi, I'm Seunghyun Kim
+## 🙋‍♀️ Hi
 
 <div>
 
